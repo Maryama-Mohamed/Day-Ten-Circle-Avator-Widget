@@ -1,6 +1,6 @@
-# flutter_application_1
+# Circle Avator Widget
 
-A new Flutter project.
+![circle](https://github.com/user-attachments/assets/bd58f292-d489-436a-9130-8c0c94dd546d)
 
 ## Getting Started
 
